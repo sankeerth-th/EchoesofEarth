@@ -1,0 +1,20 @@
+{
+  "name": "yes",
+  "version": "1.0.0",
+  "description": "discordbot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "saisankeerththallapally",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.6.8",
+    "discord.js": "^14.12.1",
+    "dotenv": "^16.4.5",
+    "duolingo": "^1.2.4",
+    "duolingo-api": "^1.0.2",
+    "openai": "^4.29.2",
+    "python-shell": "^5.0.0"
+  }
+}
