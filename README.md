@@ -38,6 +38,6 @@ Your feedback is invaluable to us. For any suggestions or queries, please feel f
 Special thanks to all contributors and users who have supported and inspired the development of Echoes of Earth.
 
 ## License
-Echoes of Earth is available under the MIT License. For more information, see the [LICENSE](LICENSE) file.
+Echoes of Earth is available under the GNU Public License. For more information, see the [LICENSE](LICENSE) file.
 
 (Note: This README is a dynamic document and will be updated regularly to reflect the latest state of the project.)
